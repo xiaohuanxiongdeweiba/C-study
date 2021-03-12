@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "study01", "study01\study01.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "study02", "study02\study02.csproj", "{0B015C83-CA5A-4FB4-9D83-B88B76FACAD0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "study03_分支结构", "study03_分支结构\study03_分支结构.csproj", "{89CCCBB7-7D25-4D87-BF50-EB5C4C01B619}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "study04_异常捕获", "study04_异常捕获\study04_异常捕获.csproj", "{965E7265-4215-49ED-9223-9F24F3C57B34}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{0B015C83-CA5A-4FB4-9D83-B88B76FACAD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B015C83-CA5A-4FB4-9D83-B88B76FACAD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B015C83-CA5A-4FB4-9D83-B88B76FACAD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89CCCBB7-7D25-4D87-BF50-EB5C4C01B619}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89CCCBB7-7D25-4D87-BF50-EB5C4C01B619}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89CCCBB7-7D25-4D87-BF50-EB5C4C01B619}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89CCCBB7-7D25-4D87-BF50-EB5C4C01B619}.Release|Any CPU.Build.0 = Release|Any CPU
+		{965E7265-4215-49ED-9223-9F24F3C57B34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{965E7265-4215-49ED-9223-9F24F3C57B34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{965E7265-4215-49ED-9223-9F24F3C57B34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{965E7265-4215-49ED-9223-9F24F3C57B34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
