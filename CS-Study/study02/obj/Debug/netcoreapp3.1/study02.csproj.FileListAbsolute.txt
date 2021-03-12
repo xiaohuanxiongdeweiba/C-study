@@ -1,0 +1,13 @@
+D:\xiaohuanxiong\C-study\CS-Study\study02\bin\Debug\netcoreapp3.1\study02.exe
+D:\xiaohuanxiong\C-study\CS-Study\study02\bin\Debug\netcoreapp3.1\study02.deps.json
+D:\xiaohuanxiong\C-study\CS-Study\study02\bin\Debug\netcoreapp3.1\study02.runtimeconfig.json
+D:\xiaohuanxiong\C-study\CS-Study\study02\bin\Debug\netcoreapp3.1\study02.runtimeconfig.dev.json
+D:\xiaohuanxiong\C-study\CS-Study\study02\bin\Debug\netcoreapp3.1\study02.dll
+D:\xiaohuanxiong\C-study\CS-Study\study02\bin\Debug\netcoreapp3.1\study02.pdb
+D:\xiaohuanxiong\C-study\CS-Study\study02\obj\Debug\netcoreapp3.1\study02.AssemblyInfoInputs.cache
+D:\xiaohuanxiong\C-study\CS-Study\study02\obj\Debug\netcoreapp3.1\study02.AssemblyInfo.cs
+D:\xiaohuanxiong\C-study\CS-Study\study02\obj\Debug\netcoreapp3.1\study02.csproj.CoreCompileInputs.cache
+D:\xiaohuanxiong\C-study\CS-Study\study02\obj\Debug\netcoreapp3.1\study02.dll
+D:\xiaohuanxiong\C-study\CS-Study\study02\obj\Debug\netcoreapp3.1\study02.pdb
+D:\xiaohuanxiong\C-study\CS-Study\study02\obj\Debug\netcoreapp3.1\study02.genruntimeconfig.cache
+D:\xiaohuanxiong\C-study\CS-Study\study02\obj\Debug\netcoreapp3.1\study02.csprojAssemblyReference.cache
