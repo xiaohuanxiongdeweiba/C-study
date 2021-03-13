@@ -1,0 +1,6 @@
+C:\Users\18840\Documents\xiaohuanxiong\CS-Study\study05\bin\Debug\study05.exe
+C:\Users\18840\Documents\xiaohuanxiong\CS-Study\study05\bin\Debug\study05.pdb
+C:\Users\18840\Documents\xiaohuanxiong\CS-Study\study05\obj\Debug\study05.csproj.CoreCompileInputs.cache
+C:\Users\18840\Documents\xiaohuanxiong\CS-Study\study05\obj\Debug\study05.exe
+C:\Users\18840\Documents\xiaohuanxiong\CS-Study\study05\obj\Debug\study05.pdb
+C:\Users\18840\Documents\xiaohuanxiong\CS-Study\study05\obj\Debug\study05.csprojAssemblyReference.cache
