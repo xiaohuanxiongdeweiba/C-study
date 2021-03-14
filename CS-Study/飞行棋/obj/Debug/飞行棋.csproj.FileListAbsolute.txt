@@ -1,0 +1,6 @@
+C:\Users\18840\Documents\xiaohuanxiong\CS-Study\飞行棋\bin\Debug\飞行棋.exe
+C:\Users\18840\Documents\xiaohuanxiong\CS-Study\飞行棋\bin\Debug\飞行棋.pdb
+C:\Users\18840\Documents\xiaohuanxiong\CS-Study\飞行棋\obj\Debug\飞行棋.csproj.CoreCompileInputs.cache
+C:\Users\18840\Documents\xiaohuanxiong\CS-Study\飞行棋\obj\Debug\飞行棋.exe
+C:\Users\18840\Documents\xiaohuanxiong\CS-Study\飞行棋\obj\Debug\飞行棋.pdb
+C:\Users\18840\Documents\xiaohuanxiong\CS-Study\飞行棋\obj\Debug\飞行棋.csprojAssemblyReference.cache

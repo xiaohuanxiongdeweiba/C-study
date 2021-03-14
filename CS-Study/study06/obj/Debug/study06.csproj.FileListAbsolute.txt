@@ -3,3 +3,4 @@ C:\Users\18840\Documents\xiaohuanxiong\CS-Study\study06\bin\Debug\study06.pdb
 C:\Users\18840\Documents\xiaohuanxiong\CS-Study\study06\obj\Debug\study06.csproj.CoreCompileInputs.cache
 C:\Users\18840\Documents\xiaohuanxiong\CS-Study\study06\obj\Debug\study06.exe
 C:\Users\18840\Documents\xiaohuanxiong\CS-Study\study06\obj\Debug\study06.pdb
+C:\Users\18840\Documents\xiaohuanxiong\CS-Study\study06\obj\Debug\study06.csprojAssemblyReference.cache

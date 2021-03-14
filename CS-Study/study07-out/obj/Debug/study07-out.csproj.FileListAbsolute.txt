@@ -1,0 +1,6 @@
+C:\Users\18840\Documents\xiaohuanxiong\CS-Study\study07-out\obj\Debug\study07-out.csprojAssemblyReference.cache
+C:\Users\18840\Documents\xiaohuanxiong\CS-Study\study07-out\obj\Debug\study07-out.csproj.CoreCompileInputs.cache
+C:\Users\18840\Documents\xiaohuanxiong\CS-Study\study07-out\bin\Debug\study07-out.exe
+C:\Users\18840\Documents\xiaohuanxiong\CS-Study\study07-out\bin\Debug\study07-out.pdb
+C:\Users\18840\Documents\xiaohuanxiong\CS-Study\study07-out\obj\Debug\study07-out.exe
+C:\Users\18840\Documents\xiaohuanxiong\CS-Study\study07-out\obj\Debug\study07-out.pdb
