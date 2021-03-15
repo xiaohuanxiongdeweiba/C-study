@@ -4,10 +4,10 @@ D:\xiaohuanxiong\C-study\CS-Study\study01\bin\Debug\netcoreapp3.1\study01.runtim
 D:\xiaohuanxiong\C-study\CS-Study\study01\bin\Debug\netcoreapp3.1\study01.runtimeconfig.dev.json
 D:\xiaohuanxiong\C-study\CS-Study\study01\bin\Debug\netcoreapp3.1\study01.dll
 D:\xiaohuanxiong\C-study\CS-Study\study01\bin\Debug\netcoreapp3.1\study01.pdb
-D:\xiaohuanxiong\C-study\CS-Study\study01\obj\Debug\netcoreapp3.1\study01.csprojAssemblyReference.cache
 D:\xiaohuanxiong\C-study\CS-Study\study01\obj\Debug\netcoreapp3.1\study01.AssemblyInfoInputs.cache
 D:\xiaohuanxiong\C-study\CS-Study\study01\obj\Debug\netcoreapp3.1\study01.AssemblyInfo.cs
 D:\xiaohuanxiong\C-study\CS-Study\study01\obj\Debug\netcoreapp3.1\study01.csproj.CoreCompileInputs.cache
 D:\xiaohuanxiong\C-study\CS-Study\study01\obj\Debug\netcoreapp3.1\study01.dll
 D:\xiaohuanxiong\C-study\CS-Study\study01\obj\Debug\netcoreapp3.1\study01.pdb
 D:\xiaohuanxiong\C-study\CS-Study\study01\obj\Debug\netcoreapp3.1\study01.genruntimeconfig.cache
+D:\xiaohuanxiong\C-study\CS-Study\study01\obj\Debug\netcoreapp3.1\study01.csprojAssemblyReference.cache

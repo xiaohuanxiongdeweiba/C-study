@@ -44,5 +44,11 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\study07-out\study07-out.csproj">
+      <Project>{6f741cd3-94ab-4ae5-81c0-70f2d1d97113}</Project>
+      <Name>study07-out</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

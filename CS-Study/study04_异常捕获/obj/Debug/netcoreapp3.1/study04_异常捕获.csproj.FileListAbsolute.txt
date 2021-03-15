@@ -1,0 +1,13 @@
+D:\xiaohuanxiong\C-study\CS-Study\study04_异常捕获\bin\Debug\netcoreapp3.1\study04_异常捕获.exe
+D:\xiaohuanxiong\C-study\CS-Study\study04_异常捕获\bin\Debug\netcoreapp3.1\study04_异常捕获.deps.json
+D:\xiaohuanxiong\C-study\CS-Study\study04_异常捕获\bin\Debug\netcoreapp3.1\study04_异常捕获.runtimeconfig.json
+D:\xiaohuanxiong\C-study\CS-Study\study04_异常捕获\bin\Debug\netcoreapp3.1\study04_异常捕获.runtimeconfig.dev.json
+D:\xiaohuanxiong\C-study\CS-Study\study04_异常捕获\bin\Debug\netcoreapp3.1\study04_异常捕获.dll
+D:\xiaohuanxiong\C-study\CS-Study\study04_异常捕获\bin\Debug\netcoreapp3.1\study04_异常捕获.pdb
+D:\xiaohuanxiong\C-study\CS-Study\study04_异常捕获\obj\Debug\netcoreapp3.1\study04_异常捕获.AssemblyInfoInputs.cache
+D:\xiaohuanxiong\C-study\CS-Study\study04_异常捕获\obj\Debug\netcoreapp3.1\study04_异常捕获.AssemblyInfo.cs
+D:\xiaohuanxiong\C-study\CS-Study\study04_异常捕获\obj\Debug\netcoreapp3.1\study04_异常捕获.csproj.CoreCompileInputs.cache
+D:\xiaohuanxiong\C-study\CS-Study\study04_异常捕获\obj\Debug\netcoreapp3.1\study04_异常捕获.dll
+D:\xiaohuanxiong\C-study\CS-Study\study04_异常捕获\obj\Debug\netcoreapp3.1\study04_异常捕获.pdb
+D:\xiaohuanxiong\C-study\CS-Study\study04_异常捕获\obj\Debug\netcoreapp3.1\study04_异常捕获.genruntimeconfig.cache
+D:\xiaohuanxiong\C-study\CS-Study\study04_异常捕获\obj\Debug\netcoreapp3.1\study04_异常捕获.csprojAssemblyReference.cache

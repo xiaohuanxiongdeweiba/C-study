@@ -4,3 +4,12 @@ C:\Users\18840\Documents\xiaohuanxiong\CS-Study\飞行棋\obj\Debug\飞行棋.cs
 C:\Users\18840\Documents\xiaohuanxiong\CS-Study\飞行棋\obj\Debug\飞行棋.exe
 C:\Users\18840\Documents\xiaohuanxiong\CS-Study\飞行棋\obj\Debug\飞行棋.pdb
 C:\Users\18840\Documents\xiaohuanxiong\CS-Study\飞行棋\obj\Debug\飞行棋.csprojAssemblyReference.cache
+D:\xiaohuanxiong\C-study\CS-Study\飞行棋\bin\Debug\飞行棋.exe
+D:\xiaohuanxiong\C-study\CS-Study\飞行棋\bin\Debug\飞行棋.pdb
+D:\xiaohuanxiong\C-study\CS-Study\飞行棋\bin\Debug\study07-out.exe
+D:\xiaohuanxiong\C-study\CS-Study\飞行棋\bin\Debug\study07-out.pdb
+D:\xiaohuanxiong\C-study\CS-Study\飞行棋\obj\Debug\飞行棋.csprojAssemblyReference.cache
+D:\xiaohuanxiong\C-study\CS-Study\飞行棋\obj\Debug\飞行棋.csproj.CoreCompileInputs.cache
+D:\xiaohuanxiong\C-study\CS-Study\飞行棋\obj\Debug\飞行棋.csproj.CopyComplete
+D:\xiaohuanxiong\C-study\CS-Study\飞行棋\obj\Debug\飞行棋.exe
+D:\xiaohuanxiong\C-study\CS-Study\飞行棋\obj\Debug\飞行棋.pdb

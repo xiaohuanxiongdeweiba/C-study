@@ -4,3 +4,8 @@ C:\Users\18840\Documents\xiaohuanxiong\CS-Study\study05\obj\Debug\study05.csproj
 C:\Users\18840\Documents\xiaohuanxiong\CS-Study\study05\obj\Debug\study05.exe
 C:\Users\18840\Documents\xiaohuanxiong\CS-Study\study05\obj\Debug\study05.pdb
 C:\Users\18840\Documents\xiaohuanxiong\CS-Study\study05\obj\Debug\study05.csprojAssemblyReference.cache
+D:\xiaohuanxiong\C-study\CS-Study\study05\bin\Debug\study05.exe
+D:\xiaohuanxiong\C-study\CS-Study\study05\bin\Debug\study05.pdb
+D:\xiaohuanxiong\C-study\CS-Study\study05\obj\Debug\study05.csproj.CoreCompileInputs.cache
+D:\xiaohuanxiong\C-study\CS-Study\study05\obj\Debug\study05.exe
+D:\xiaohuanxiong\C-study\CS-Study\study05\obj\Debug\study05.pdb

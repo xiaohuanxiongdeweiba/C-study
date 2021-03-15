@@ -1,4 +1,6 @@
 ﻿using System;
+using study07_out;
+
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -16,6 +18,7 @@ namespace 飞行棋
 
         static void Main(string[] args)
         {
+           
             GameTitle();
             Console.WriteLine("请输入玩家A的姓名");
             string nameA = Console.ReadLine();

@@ -3,3 +3,8 @@ C:\Users\18840\Documents\xiaohuanxiong\CS-Study\practice_结构\bin\Debug\practi
 C:\Users\18840\Documents\xiaohuanxiong\CS-Study\practice_结构\obj\Debug\practice_结构.csproj.CoreCompileInputs.cache
 C:\Users\18840\Documents\xiaohuanxiong\CS-Study\practice_结构\obj\Debug\practice_结构.exe
 C:\Users\18840\Documents\xiaohuanxiong\CS-Study\practice_结构\obj\Debug\practice_结构.pdb
+D:\xiaohuanxiong\C-study\CS-Study\practice_结构\bin\Debug\practice_结构.exe
+D:\xiaohuanxiong\C-study\CS-Study\practice_结构\bin\Debug\practice_结构.pdb
+D:\xiaohuanxiong\C-study\CS-Study\practice_结构\obj\Debug\practice_结构.csproj.CoreCompileInputs.cache
+D:\xiaohuanxiong\C-study\CS-Study\practice_结构\obj\Debug\practice_结构.exe
+D:\xiaohuanxiong\C-study\CS-Study\practice_结构\obj\Debug\practice_结构.pdb
