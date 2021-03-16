@@ -100,3 +100,27 @@ namespace 继承练习
     }
 
 }
+/*里式转换
+ * 1.子类可以赋值给父类
+ * 如果有一个地方需要一个父类作为参数，我们可以给一个子类作为代替
+ * Student s=new Student();
+ * Person p=s;
+ * 2.如果父类中装的是子类对象，那么可以将这个父类强转为子类对象
+ * Student ss=(Student)p;
+ * 
+ * 
+ * 3.类型判断
+ * if(p is Teacher)
+ * {
+ * Teacher ss=(Teacher)p;
+ * ss.TeacherSayHello();
+ * }
+ * else{
+ * 转换失败
+ * }
+ * is:表类型转换，是则是true，不是是false
+ * as：表示类型转换，如果能转换，返回这个对象，不能则返回null
+ *   Student s=p as Student();;
+
+ * 
+ * */
