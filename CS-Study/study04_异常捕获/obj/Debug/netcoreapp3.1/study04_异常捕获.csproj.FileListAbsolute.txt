@@ -10,4 +10,3 @@ D:\xiaohuanxiong\C-study\CS-Study\study04_异常捕获\obj\Debug\netcoreapp3.1\s
 D:\xiaohuanxiong\C-study\CS-Study\study04_异常捕获\obj\Debug\netcoreapp3.1\study04_异常捕获.dll
 D:\xiaohuanxiong\C-study\CS-Study\study04_异常捕获\obj\Debug\netcoreapp3.1\study04_异常捕获.pdb
 D:\xiaohuanxiong\C-study\CS-Study\study04_异常捕获\obj\Debug\netcoreapp3.1\study04_异常捕获.genruntimeconfig.cache
-D:\xiaohuanxiong\C-study\CS-Study\study04_异常捕获\obj\Debug\netcoreapp3.1\study04_异常捕获.csprojAssemblyReference.cache

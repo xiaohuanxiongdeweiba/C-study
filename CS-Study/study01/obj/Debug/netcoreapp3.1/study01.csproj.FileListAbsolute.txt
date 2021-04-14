@@ -10,4 +10,3 @@ D:\xiaohuanxiong\C-study\CS-Study\study01\obj\Debug\netcoreapp3.1\study01.csproj
 D:\xiaohuanxiong\C-study\CS-Study\study01\obj\Debug\netcoreapp3.1\study01.dll
 D:\xiaohuanxiong\C-study\CS-Study\study01\obj\Debug\netcoreapp3.1\study01.pdb
 D:\xiaohuanxiong\C-study\CS-Study\study01\obj\Debug\netcoreapp3.1\study01.genruntimeconfig.cache
-D:\xiaohuanxiong\C-study\CS-Study\study01\obj\Debug\netcoreapp3.1\study01.csprojAssemblyReference.cache

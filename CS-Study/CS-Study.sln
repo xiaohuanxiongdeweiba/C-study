@@ -25,9 +25,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "study07_类学习", "study0
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "study08", "study08\study08.csproj", "{0E50E49F-8CBB-428A-960A-34EE957CDB3A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "继承练习", "继承练习\继承练习.csproj", "{85F3E53B-DA0C-49ED-9F00-E06C6873FAE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "继承练习", "继承练习\继承练习.csproj", "{85F3E53B-DA0C-49ED-9F00-E06C6873FAE6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "study09_集合", "study09_集合\study09_集合.csproj", "{FFFE8D95-AB31-442C-A87D-7F14A3B2CCFA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "study09_集合", "study09_集合\study09_集合.csproj", "{FFFE8D95-AB31-442C-A87D-7F14A3B2CCFA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "study10_file", "study10_file\study10_file.csproj", "{4C11A50E-B065-478F-AB1F-20AE999025C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practice_文件流", "practice_文件流\practice_文件流.csproj", "{2F7C5735-4970-4897-A809-00C98AA2EE2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "study_多态", "study_多态\study_多态.csproj", "{339AC4CE-D8D3-47B2-9CB5-DF3084C9B6E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +93,18 @@ Global
 		{FFFE8D95-AB31-442C-A87D-7F14A3B2CCFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFFE8D95-AB31-442C-A87D-7F14A3B2CCFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFFE8D95-AB31-442C-A87D-7F14A3B2CCFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C11A50E-B065-478F-AB1F-20AE999025C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C11A50E-B065-478F-AB1F-20AE999025C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C11A50E-B065-478F-AB1F-20AE999025C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C11A50E-B065-478F-AB1F-20AE999025C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F7C5735-4970-4897-A809-00C98AA2EE2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F7C5735-4970-4897-A809-00C98AA2EE2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F7C5735-4970-4897-A809-00C98AA2EE2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F7C5735-4970-4897-A809-00C98AA2EE2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{339AC4CE-D8D3-47B2-9CB5-DF3084C9B6E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{339AC4CE-D8D3-47B2-9CB5-DF3084C9B6E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{339AC4CE-D8D3-47B2-9CB5-DF3084C9B6E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{339AC4CE-D8D3-47B2-9CB5-DF3084C9B6E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

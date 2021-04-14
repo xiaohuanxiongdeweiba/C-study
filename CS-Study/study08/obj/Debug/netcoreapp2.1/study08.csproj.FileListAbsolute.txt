@@ -3,7 +3,6 @@ D:\xiaohuanxiong\C-study\CS-Study\study08\bin\Debug\netcoreapp2.1\study08.runtim
 D:\xiaohuanxiong\C-study\CS-Study\study08\bin\Debug\netcoreapp2.1\study08.runtimeconfig.dev.json
 D:\xiaohuanxiong\C-study\CS-Study\study08\bin\Debug\netcoreapp2.1\study08.dll
 D:\xiaohuanxiong\C-study\CS-Study\study08\bin\Debug\netcoreapp2.1\study08.pdb
-D:\xiaohuanxiong\C-study\CS-Study\study08\obj\Debug\netcoreapp2.1\study08.csprojAssemblyReference.cache
 D:\xiaohuanxiong\C-study\CS-Study\study08\obj\Debug\netcoreapp2.1\study08.AssemblyInfoInputs.cache
 D:\xiaohuanxiong\C-study\CS-Study\study08\obj\Debug\netcoreapp2.1\study08.AssemblyInfo.cs
 D:\xiaohuanxiong\C-study\CS-Study\study08\obj\Debug\netcoreapp2.1\study08.csproj.CoreCompileInputs.cache

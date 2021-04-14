@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "practice_文件流/1.0.0": {
+        "runtime": {
+          "practice_文件流.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "practice_文件流/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

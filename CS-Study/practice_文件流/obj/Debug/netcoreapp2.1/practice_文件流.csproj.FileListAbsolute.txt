@@ -1,0 +1,11 @@
+D:\xiaohuanxiong\C-study\CS-Study\practice_文件流\bin\Debug\netcoreapp2.1\practice_文件流.deps.json
+D:\xiaohuanxiong\C-study\CS-Study\practice_文件流\bin\Debug\netcoreapp2.1\practice_文件流.runtimeconfig.json
+D:\xiaohuanxiong\C-study\CS-Study\practice_文件流\bin\Debug\netcoreapp2.1\practice_文件流.runtimeconfig.dev.json
+D:\xiaohuanxiong\C-study\CS-Study\practice_文件流\bin\Debug\netcoreapp2.1\practice_文件流.dll
+D:\xiaohuanxiong\C-study\CS-Study\practice_文件流\bin\Debug\netcoreapp2.1\practice_文件流.pdb
+D:\xiaohuanxiong\C-study\CS-Study\practice_文件流\obj\Debug\netcoreapp2.1\practice_文件流.AssemblyInfoInputs.cache
+D:\xiaohuanxiong\C-study\CS-Study\practice_文件流\obj\Debug\netcoreapp2.1\practice_文件流.AssemblyInfo.cs
+D:\xiaohuanxiong\C-study\CS-Study\practice_文件流\obj\Debug\netcoreapp2.1\practice_文件流.csproj.CoreCompileInputs.cache
+D:\xiaohuanxiong\C-study\CS-Study\practice_文件流\obj\Debug\netcoreapp2.1\practice_文件流.dll
+D:\xiaohuanxiong\C-study\CS-Study\practice_文件流\obj\Debug\netcoreapp2.1\practice_文件流.pdb
+D:\xiaohuanxiong\C-study\CS-Study\practice_文件流\obj\Debug\netcoreapp2.1\practice_文件流.genruntimeconfig.cache

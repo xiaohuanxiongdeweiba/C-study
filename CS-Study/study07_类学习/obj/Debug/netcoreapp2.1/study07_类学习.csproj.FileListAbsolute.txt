@@ -9,4 +9,3 @@ D:\xiaohuanxiong\C-study\CS-Study\study07_类学习\obj\Debug\netcoreapp2.1\stud
 D:\xiaohuanxiong\C-study\CS-Study\study07_类学习\obj\Debug\netcoreapp2.1\study07_类学习.dll
 D:\xiaohuanxiong\C-study\CS-Study\study07_类学习\obj\Debug\netcoreapp2.1\study07_类学习.pdb
 D:\xiaohuanxiong\C-study\CS-Study\study07_类学习\obj\Debug\netcoreapp2.1\study07_类学习.genruntimeconfig.cache
-D:\xiaohuanxiong\C-study\CS-Study\study07_类学习\obj\Debug\netcoreapp2.1\study07_类学习.csprojAssemblyReference.cache

@@ -3,7 +3,6 @@ D:\xiaohuanxiong\C-study\CS-Study\继承练习\bin\Debug\netcoreapp2.1\继承练
 D:\xiaohuanxiong\C-study\CS-Study\继承练习\bin\Debug\netcoreapp2.1\继承练习.runtimeconfig.dev.json
 D:\xiaohuanxiong\C-study\CS-Study\继承练习\bin\Debug\netcoreapp2.1\继承练习.dll
 D:\xiaohuanxiong\C-study\CS-Study\继承练习\bin\Debug\netcoreapp2.1\继承练习.pdb
-D:\xiaohuanxiong\C-study\CS-Study\继承练习\obj\Debug\netcoreapp2.1\继承练习.csprojAssemblyReference.cache
 D:\xiaohuanxiong\C-study\CS-Study\继承练习\obj\Debug\netcoreapp2.1\继承练习.AssemblyInfoInputs.cache
 D:\xiaohuanxiong\C-study\CS-Study\继承练习\obj\Debug\netcoreapp2.1\继承练习.AssemblyInfo.cs
 D:\xiaohuanxiong\C-study\CS-Study\继承练习\obj\Debug\netcoreapp2.1\继承练习.csproj.CoreCompileInputs.cache

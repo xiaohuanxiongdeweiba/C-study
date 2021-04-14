@@ -1,0 +1,3 @@
+D:\xiaohuanxiong\C-study\CS-Study\study10_file\obj\Debug\netcoreapp2.1\study10_file.AssemblyInfoInputs.cache
+D:\xiaohuanxiong\C-study\CS-Study\study10_file\obj\Debug\netcoreapp2.1\study10_file.AssemblyInfo.cs
+D:\xiaohuanxiong\C-study\CS-Study\study10_file\obj\Debug\netcoreapp2.1\study10_file.csproj.CoreCompileInputs.cache
