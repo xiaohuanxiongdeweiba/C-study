@@ -1,0 +1,10 @@
+D:\xiaohuanxiong\C-study\WinformS\WindowsFormsStudy\WindowsFormsStudy\bin\Debug\WindowsFormsStudy.exe.config
+D:\xiaohuanxiong\C-study\WinformS\WindowsFormsStudy\WindowsFormsStudy\bin\Debug\WindowsFormsStudy.exe
+D:\xiaohuanxiong\C-study\WinformS\WindowsFormsStudy\WindowsFormsStudy\bin\Debug\WindowsFormsStudy.pdb
+D:\xiaohuanxiong\C-study\WinformS\WindowsFormsStudy\WindowsFormsStudy\obj\Debug\WindowsFormsStudy.csprojAssemblyReference.cache
+D:\xiaohuanxiong\C-study\WinformS\WindowsFormsStudy\WindowsFormsStudy\obj\Debug\WindowsFormsStudy.Form1.resources
+D:\xiaohuanxiong\C-study\WinformS\WindowsFormsStudy\WindowsFormsStudy\obj\Debug\WindowsFormsStudy.Properties.Resources.resources
+D:\xiaohuanxiong\C-study\WinformS\WindowsFormsStudy\WindowsFormsStudy\obj\Debug\WindowsFormsStudy.csproj.GenerateResource.cache
+D:\xiaohuanxiong\C-study\WinformS\WindowsFormsStudy\WindowsFormsStudy\obj\Debug\WindowsFormsStudy.csproj.CoreCompileInputs.cache
+D:\xiaohuanxiong\C-study\WinformS\WindowsFormsStudy\WindowsFormsStudy\obj\Debug\WindowsFormsStudy.exe
+D:\xiaohuanxiong\C-study\WinformS\WindowsFormsStudy\WindowsFormsStudy\obj\Debug\WindowsFormsStudy.pdb

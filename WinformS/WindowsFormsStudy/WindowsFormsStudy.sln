@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31105.61
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudyWinform", "StudyWinform\StudyWinform.csproj", "{D91E0197-678E-4E89-8F1B-3708A75D578A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsStudy", "WindowsFormsStudy\WindowsFormsStudy.csproj", "{C8852ABD-6117-4A1D-9CDA-255388ECCC79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D91E0197-678E-4E89-8F1B-3708A75D578A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D91E0197-678E-4E89-8F1B-3708A75D578A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D91E0197-678E-4E89-8F1B-3708A75D578A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D91E0197-678E-4E89-8F1B-3708A75D578A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8852ABD-6117-4A1D-9CDA-255388ECCC79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8852ABD-6117-4A1D-9CDA-255388ECCC79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8852ABD-6117-4A1D-9CDA-255388ECCC79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8852ABD-6117-4A1D-9CDA-255388ECCC79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {E21FA2F9-6496-47C2-9844-E14F98360A5D}
+		SolutionGuid = {3B3CA8AC-547C-4F5B-AD03-63445840E822}
 	EndGlobalSection
 EndGlobal
