@@ -1,0 +1,16 @@
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\StudyCday3\bin\Debug\net5.0\StudyCday3.exe
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\StudyCday3\bin\Debug\net5.0\StudyCday3.deps.json
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\StudyCday3\bin\Debug\net5.0\StudyCday3.runtimeconfig.json
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\StudyCday3\bin\Debug\net5.0\StudyCday3.runtimeconfig.dev.json
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\StudyCday3\bin\Debug\net5.0\StudyCday3.dll
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\StudyCday3\bin\Debug\net5.0\ref\StudyCday3.dll
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\StudyCday3\bin\Debug\net5.0\StudyCday3.pdb
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\StudyCday3\obj\Debug\net5.0\StudyCday3.csprojAssemblyReference.cache
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\StudyCday3\obj\Debug\net5.0\StudyCday3.GeneratedMSBuildEditorConfig.editorconfig
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\StudyCday3\obj\Debug\net5.0\StudyCday3.AssemblyInfoInputs.cache
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\StudyCday3\obj\Debug\net5.0\StudyCday3.AssemblyInfo.cs
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\StudyCday3\obj\Debug\net5.0\StudyCday3.csproj.CoreCompileInputs.cache
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\StudyCday3\obj\Debug\net5.0\StudyCday3.dll
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\StudyCday3\obj\Debug\net5.0\ref\StudyCday3.dll
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\StudyCday3\obj\Debug\net5.0\StudyCday3.pdb
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\StudyCday3\obj\Debug\net5.0\StudyCday3.genruntimeconfig.cache
