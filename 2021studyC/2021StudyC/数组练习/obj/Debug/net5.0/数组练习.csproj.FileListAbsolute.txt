@@ -1,0 +1,16 @@
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\数组练习\bin\Debug\net5.0\数组练习.exe
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\数组练习\bin\Debug\net5.0\数组练习.deps.json
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\数组练习\bin\Debug\net5.0\数组练习.runtimeconfig.json
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\数组练习\bin\Debug\net5.0\数组练习.runtimeconfig.dev.json
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\数组练习\bin\Debug\net5.0\数组练习.dll
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\数组练习\bin\Debug\net5.0\ref\数组练习.dll
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\数组练习\bin\Debug\net5.0\数组练习.pdb
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\数组练习\obj\Debug\net5.0\数组练习.csprojAssemblyReference.cache
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\数组练习\obj\Debug\net5.0\数组练习.GeneratedMSBuildEditorConfig.editorconfig
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\数组练习\obj\Debug\net5.0\数组练习.AssemblyInfoInputs.cache
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\数组练习\obj\Debug\net5.0\数组练习.AssemblyInfo.cs
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\数组练习\obj\Debug\net5.0\数组练习.csproj.CoreCompileInputs.cache
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\数组练习\obj\Debug\net5.0\数组练习.dll
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\数组练习\obj\Debug\net5.0\ref\数组练习.dll
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\数组练习\obj\Debug\net5.0\数组练习.pdb
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\数组练习\obj\Debug\net5.0\数组练习.genruntimeconfig.cache

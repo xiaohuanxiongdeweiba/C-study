@@ -5,6 +5,7 @@ D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\StudyCday5\bin\Debug\net5.0\Study
 D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\StudyCday5\bin\Debug\net5.0\StudyCday5.dll
 D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\StudyCday5\bin\Debug\net5.0\ref\StudyCday5.dll
 D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\StudyCday5\bin\Debug\net5.0\StudyCday5.pdb
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\StudyCday5\obj\Debug\net5.0\StudyCday5.csprojAssemblyReference.cache
 D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\StudyCday5\obj\Debug\net5.0\StudyCday5.GeneratedMSBuildEditorConfig.editorconfig
 D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\StudyCday5\obj\Debug\net5.0\StudyCday5.AssemblyInfoInputs.cache
 D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\StudyCday5\obj\Debug\net5.0\StudyCday5.AssemblyInfo.cs
@@ -13,4 +14,3 @@ D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\StudyCday5\obj\Debug\net5.0\Study
 D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\StudyCday5\obj\Debug\net5.0\ref\StudyCday5.dll
 D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\StudyCday5\obj\Debug\net5.0\StudyCday5.pdb
 D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\StudyCday5\obj\Debug\net5.0\StudyCday5.genruntimeconfig.cache
-D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\StudyCday5\obj\Debug\net5.0\StudyCday5.csprojAssemblyReference.cache

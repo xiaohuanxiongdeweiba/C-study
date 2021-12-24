@@ -1,0 +1,16 @@
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\A飞行棋\bin\Debug\net5.0\A飞行棋.exe
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\A飞行棋\bin\Debug\net5.0\A飞行棋.deps.json
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\A飞行棋\bin\Debug\net5.0\A飞行棋.runtimeconfig.json
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\A飞行棋\bin\Debug\net5.0\A飞行棋.runtimeconfig.dev.json
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\A飞行棋\bin\Debug\net5.0\A飞行棋.dll
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\A飞行棋\bin\Debug\net5.0\ref\A飞行棋.dll
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\A飞行棋\bin\Debug\net5.0\A飞行棋.pdb
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\A飞行棋\obj\Debug\net5.0\A飞行棋.csprojAssemblyReference.cache
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\A飞行棋\obj\Debug\net5.0\A飞行棋.GeneratedMSBuildEditorConfig.editorconfig
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\A飞行棋\obj\Debug\net5.0\A飞行棋.AssemblyInfoInputs.cache
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\A飞行棋\obj\Debug\net5.0\A飞行棋.AssemblyInfo.cs
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\A飞行棋\obj\Debug\net5.0\A飞行棋.csproj.CoreCompileInputs.cache
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\A飞行棋\obj\Debug\net5.0\A飞行棋.dll
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\A飞行棋\obj\Debug\net5.0\ref\A飞行棋.dll
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\A飞行棋\obj\Debug\net5.0\A飞行棋.pdb
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\A飞行棋\obj\Debug\net5.0\A飞行棋.genruntimeconfig.cache

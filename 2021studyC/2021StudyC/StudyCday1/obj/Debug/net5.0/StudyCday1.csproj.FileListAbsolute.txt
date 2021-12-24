@@ -5,7 +5,6 @@ D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\StudyCday1\bin\Debug\net5.0\Study
 D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\StudyCday1\bin\Debug\net5.0\StudyCday1.dll
 D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\StudyCday1\bin\Debug\net5.0\ref\StudyCday1.dll
 D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\StudyCday1\bin\Debug\net5.0\StudyCday1.pdb
-D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\StudyCday1\obj\Debug\net5.0\StudyCday1.csprojAssemblyReference.cache
 D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\StudyCday1\obj\Debug\net5.0\StudyCday1.GeneratedMSBuildEditorConfig.editorconfig
 D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\StudyCday1\obj\Debug\net5.0\StudyCday1.AssemblyInfoInputs.cache
 D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\StudyCday1\obj\Debug\net5.0\StudyCday1.AssemblyInfo.cs

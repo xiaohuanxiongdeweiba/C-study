@@ -1,0 +1,16 @@
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\结构体练习\bin\Debug\net5.0\结构体练习.exe
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\结构体练习\bin\Debug\net5.0\结构体练习.deps.json
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\结构体练习\bin\Debug\net5.0\结构体练习.runtimeconfig.json
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\结构体练习\bin\Debug\net5.0\结构体练习.runtimeconfig.dev.json
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\结构体练习\bin\Debug\net5.0\结构体练习.dll
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\结构体练习\bin\Debug\net5.0\ref\结构体练习.dll
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\结构体练习\bin\Debug\net5.0\结构体练习.pdb
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\结构体练习\obj\Debug\net5.0\结构体练习.csprojAssemblyReference.cache
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\结构体练习\obj\Debug\net5.0\结构体练习.GeneratedMSBuildEditorConfig.editorconfig
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\结构体练习\obj\Debug\net5.0\结构体练习.AssemblyInfoInputs.cache
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\结构体练习\obj\Debug\net5.0\结构体练习.AssemblyInfo.cs
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\结构体练习\obj\Debug\net5.0\结构体练习.csproj.CoreCompileInputs.cache
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\结构体练习\obj\Debug\net5.0\结构体练习.dll
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\结构体练习\obj\Debug\net5.0\ref\结构体练习.dll
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\结构体练习\obj\Debug\net5.0\结构体练习.pdb
+D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\结构体练习\obj\Debug\net5.0\结构体练习.genruntimeconfig.cache
