@@ -1,0 +1,6 @@
+C:\Users\18840\Desktop\2021studyC\2021StudyC\B飞行棋\obj\Debug\B飞行棋.csprojAssemblyReference.cache
+C:\Users\18840\Desktop\2021studyC\2021StudyC\B飞行棋\obj\Debug\B飞行棋.csproj.CoreCompileInputs.cache
+C:\Users\18840\Desktop\2021studyC\2021StudyC\B飞行棋\bin\Debug\B飞行棋.exe
+C:\Users\18840\Desktop\2021studyC\2021StudyC\B飞行棋\bin\Debug\B飞行棋.pdb
+C:\Users\18840\Desktop\2021studyC\2021StudyC\B飞行棋\obj\Debug\B飞行棋.exe
+C:\Users\18840\Desktop\2021studyC\2021StudyC\B飞行棋\obj\Debug\B飞行棋.pdb

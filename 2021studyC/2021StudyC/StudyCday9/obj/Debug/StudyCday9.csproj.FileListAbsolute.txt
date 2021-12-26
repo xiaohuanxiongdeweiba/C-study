@@ -1,0 +1,6 @@
+C:\Users\18840\Desktop\2021studyC\2021StudyC\StudyCday9\bin\Debug\StudyCday9.exe
+C:\Users\18840\Desktop\2021studyC\2021StudyC\StudyCday9\bin\Debug\StudyCday9.pdb
+C:\Users\18840\Desktop\2021studyC\2021StudyC\StudyCday9\obj\Debug\StudyCday9.csprojAssemblyReference.cache
+C:\Users\18840\Desktop\2021studyC\2021StudyC\StudyCday9\obj\Debug\StudyCday9.csproj.CoreCompileInputs.cache
+C:\Users\18840\Desktop\2021studyC\2021StudyC\StudyCday9\obj\Debug\StudyCday9.exe
+C:\Users\18840\Desktop\2021studyC\2021StudyC\StudyCday9\obj\Debug\StudyCday9.pdb

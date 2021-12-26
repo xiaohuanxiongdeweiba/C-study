@@ -1,38 +1,42 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    ".NETFramework,Version=v5.0": {},
+    ".NETFramework,Version=v5.0/win7-x86": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net5.0": []
+    ".NETFramework,Version=v5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Betta\\.nuget\\packages\\": {}
+    "C:\\Users\\18840\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\xiaohuanxiong\\C-study\\2021studyC\\2021StudyC\\A飞行棋\\A飞行棋.csproj",
+      "projectUniqueName": "C:\\Users\\18840\\Documents\\xiaohuanxiong\\2021studyC\\2021StudyC\\A飞行棋\\A飞行棋.csproj",
       "projectName": "A飞行棋",
-      "projectPath": "D:\\xiaohuanxiong\\C-study\\2021studyC\\2021StudyC\\A飞行棋\\A飞行棋.csproj",
-      "packagesPath": "C:\\Users\\Betta\\.nuget\\packages\\",
-      "outputPath": "D:\\xiaohuanxiong\\C-study\\2021studyC\\2021StudyC\\A飞行棋\\obj\\",
+      "projectPath": "C:\\Users\\18840\\Documents\\xiaohuanxiong\\2021studyC\\2021StudyC\\A飞行棋\\A飞行棋.csproj",
+      "packagesPath": "C:\\Users\\18840\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\18840\\Documents\\xiaohuanxiong\\2021studyC\\2021StudyC\\A飞行棋\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Betta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\18840\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net5.0"
+        "net50"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net50": {
           "projectReferences": {}
         }
       },
@@ -43,24 +47,11 @@
       }
     },
     "frameworks": {
-      "net5.0": {
-        "targetAlias": "net5.0",
-        "imports": [
-          "net461",
-          "net462",
-          "net47",
-          "net471",
-          "net472",
-          "net48"
-        ],
-        "assetTargetFallback": true,
-        "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+      "net50": {}
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
       }
     }
   }

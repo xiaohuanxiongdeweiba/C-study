@@ -14,3 +14,4 @@ D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\A飞行棋\obj\Debug\net5.0\A飞�
 D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\A飞行棋\obj\Debug\net5.0\ref\A飞行棋.dll
 D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\A飞行棋\obj\Debug\net5.0\A飞行棋.pdb
 D:\xiaohuanxiong\C-study\2021studyC\2021StudyC\A飞行棋\obj\Debug\net5.0\A飞行棋.genruntimeconfig.cache
+C:\Users\18840\Documents\xiaohuanxiong\2021studyC\2021StudyC\A飞行棋\obj\Debug\net5.0\A飞行棋.pdb
